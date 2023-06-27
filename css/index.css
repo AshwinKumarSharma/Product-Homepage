@@ -17,6 +17,7 @@ nav img {
     position: relative;
     left: 20px;
     width: 80px;
+    cursor: pointer;
 }
 
 .nav-items + img {
@@ -32,6 +33,7 @@ nav img {
     padding: 5px 20px;
     font-size: 17px;
     font-weight: lighter;
+    cursor: pointer;
 }
 
 h5.active-item {
@@ -47,8 +49,6 @@ h5.active-item {
 .left-section {
     flex: 2;
 }
-
-
 
 .left-section > h3 {
     font-size: 30px;
@@ -164,6 +164,7 @@ h5.active-item {
     padding: 10px 30px;
     color: #ffffff;
     margin-right: 15px;
+    cursor: pointer;
 }
 
 .dots {
