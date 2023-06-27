@@ -1,6 +1,6 @@
 # Product Home Page ![Technologies Used](https://img.shields.io/badge/Technologies-HTML%2FCSS-green)
 
-## Project Live Link: [Crypto Landing Page](https://product-landingpg.netlify.app/)
+## Project Live Link: [Product-Homepage](https://product-landingpg.netlify.app/)
 
 Screenshot
 
